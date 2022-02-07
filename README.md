@@ -14,7 +14,7 @@ Access the project <a href="https://luk4x.github.io/DevClub-Desafio1-HTML/" targ
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/lucasmacielf/">
-        <img src="https://avatars.githubusercontent.com/Luk4x" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/Luk4x" width="100px;" alt="Luk4x Github Photo"/><br>
         <sub>
           <b>Lucas Maciel</b>
         </sub>
