@@ -1,10 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/luk4x/DevClub-Desafio1-HTML?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/luk4x/DevClub-Desafio1-HTML?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/luk4x/DevClub-Desafio1-HTML?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luk4x/DevClub-Desafio1-HTML?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luk4x/DevClub-Desafio1-HTML?style=for-the-badge)
-
-<h1 align="center">
+<h1>
     Who am i - DevClub Challenge 1
 </h1>
 
