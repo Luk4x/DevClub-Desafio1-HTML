@@ -1,18 +1,21 @@
-<h1 align="center">
-    Who am i - DevClub Challenge 1
-</h1>
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/luk4x/DevClub-Desafio1-HTML?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/luk4x/DevClub-Desafio1-HTML?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/luk4x/DevClub-Desafio1-HTML?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luk4x/DevClub-Desafio1-HTML?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luk4x/DevClub-Desafio1-HTML?style=for-the-badge)
 
+<h1 align="center">
+    Who am i - DevClub Challenge 1
+</h1>
+
+## About
+<p>DevClub ntroductory challenge to HTML and CSS</p>
+
+## Result
 <img src="./assets/result.png" alt="challenge-result">
-> Introductory challenge to HTML and CSS
 Access the project <a href="https://luk4x.github.io/DevClub-Desafio1-HTML/" target="_blank">HERE</a>.
 
-## 🤝 Contributors
+## 🤝 Contributors Linkedin
 <table>
   <tr>
     <td align="center">
