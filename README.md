@@ -3,7 +3,7 @@
 </h1>
 
 ## About
-<p>DevClub ntroductory challenge to HTML and CSS</p>
+<p>DevClub introductory challenge to HTML and CSS</p>
 
 ## Result
 <img src="./assets/result.png" alt="challenge-result">
